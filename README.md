@@ -1,7 +1,10 @@
 # Kyler Tran | Portfolio Website
+
 **Copyright &copy; 2024 Kyler Tran**
+
 **All Rights Reserved**
 
+## Overview
 Second year student studying Computer Science & Software Engineering at the University of Washington Bothell. Proficient in data structures and multiple programming languages.
 
 ## Main Features

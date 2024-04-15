@@ -15,5 +15,6 @@ Second year student studying Computer Science & Software Engineering at the Univ
 - [three.js](https://github.com/mrdoob/three.js/)
 
 ## Contact
-Kyler Tran  
+
+**Kyler Tran**
 **Email**: [kylerzinbox@gmail.com](mailto:kylerzinbox@gmail.com)

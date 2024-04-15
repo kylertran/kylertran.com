@@ -17,4 +17,4 @@ Second year student studying Computer Science & Software Engineering at the Univ
 ## Contact
 Kyler Tran
 
-**Email**: [kylerzinbox@gmail.com](mailto:kylerzinbox@gmail.com)
+**Email**: [contact@kylertran.com](mailto:contact@kylertran.com)

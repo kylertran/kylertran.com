@@ -1,4 +1,5 @@
 # Kyler Tran | Portfolio Website
+![Website Preview](preview.png)
 
 **Copyright &copy; 2024 Kyler Tran**
 

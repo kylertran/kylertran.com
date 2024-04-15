@@ -2,8 +2,6 @@
 
 **Copyright &copy; 2024 Kyler Tran**
 
-**All Rights Reserved**
-
 ## Overview
 Second year student studying Computer Science & Software Engineering at the University of Washington Bothell. Proficient in data structures and multiple programming languages.
 
@@ -14,3 +12,7 @@ Second year student studying Computer Science & Software Engineering at the Univ
 
 ## Attributions
 - [three.js](https://github.com/mrdoob/three.js/)
+
+## Contact
+Kyler Tran  
+**Email**: [kylerzinbox@gmail.com](mailto:kylerzinbox@gmail.com)

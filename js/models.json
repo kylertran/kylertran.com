@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Adjustable Headphone Holder",
+        "description": "A simple headphone mount that can attach to most surfaces between 3-22mm. The headphone holder will support any headband with a maximum width of 35mm.",
+        "url": "stls/adjustable-headphone-holder.stl",
+        "cont": "headphone_stl_cont"
+    },
+    {
+        "name": "Among Us Cookie Cutter",
+        "description": "Among Us crewmate shaped cookie cutter. Includes 3 models: crewmate, crewmate with leaf, and dead crewmate.",
+        "url": "stls/amogus-cookie-cutter.stl",
+        "cont": "amongus_stl_cont"
+    },
+    {
+        "name": "Bookshelf Speaker Bed Mount",
+        "description": "This mount connects directly to my bedframe and offers structural support for a  rear surround bookshelf speaker.",
+        "url": "stls/bookshelf-speaker-bed-mount.stl",
+        "cont": "bookshelf_stl_cont"
+    },
+    {
+        "name": "Honda HydroFlask Adapter",
+        "description": "This mount holds any 32/40oz widemouth HydroFlask and fits in the cup holder of any Honda CRV.",
+        "url": "stls/crv-hydroflask-adapter.stl",
+        "cont": "crv_stl_cont"
+    },
+    {
+        "name": "Custom Speaker",
+        "description": "Fits dual 2\" 8Ohm steareo speakers and powered by a 5v audio amp with potentiometer.",
+        "url": "stls/custom-speaker.stl",
+        "cont": "speaker_stl_cont"
+    },
+    {
+        "name": "Dogecoin",
+        "description": "Fan made coin based off the crypto currency Dogecoin.",
+        "url": "stls/doge-coin.stl",
+        "cont": "doge_stl_cont"
+    },
+    {
+        "name": "Plaque Stand",
+        "description": "Custom plaque stand for displaying awards.",
+        "url": "stls/fbla-plaque-stand.stl",
+        "cont": "fbla_stl_cont"
+    },
+    {
+        "name": "Cup Holder Bed Attachment",
+        "description": "Attachment to hold any 32oz watebottle or smaller directly on my bedframe.",
+        "url": "stls/cup-holder.stl",
+        "cont": "hydro_stl_cont"
+    },
+    {
+        "name": "Mechanical Keypad",
+        "description": "6-key Cherry MX keypad which pairs best with a microcontroller.",
+        "url": "stls/mechanical-keypad.stl",
+        "cont": "keypad_stl_cont"
+    },
+    {
+        "name": "Pacman & Ghost",
+        "description": "A pixelated model of the famous ghost sprite from Pacman.",
+        "url": "stls/pacman-ghost.stl",
+        "cont": "pacman_stl_cont"
+    },
+    {
+        "name": "Phone Stand",
+        "description": "Customized phone stand to hold an iPhone 11 with case.",
+        "url": "stls/phone-stand.stl",
+        "cont": "phone_stl_cont"
+    },
+    {
+        "name": "Phone & Remote Holder",
+        "description": "Detachable pieces that can hold my phone and 6 remote controls custom sized for my usecase. Mounts directly onto my nightstand and has a cable hole for my lamp.",
+        "url": "stls/phone-remote-holder.stl",
+        "cont": "remote_stl_cont"
+    },
+    {
+        "name": "Yeezus CD Stand",
+        "description": "Custom stand designed to display your Yeezus CD. Model supports dual extrusion for text but combined model is also included for single extruder printers.",
+        "url": "stls/yeezus-stand.stl",
+        "cont": "yeezus_stl_cont"
+    }
+]

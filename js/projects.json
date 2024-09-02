@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Best Buy Stock Alerts Bot",
+        "description": "Bot coded in Java to automatically alert you via SMS and email upon restock of any Best Buy product of your choosing.",
+        "id":"bestbuy",
+        "images": [
+            "images/bestbuy-1.webp",
+            "images/bestbuy-2.webp",
+            "images/bestbuy-3.webp"
+        ]
+    },
+    {
+        "name": "FBLA Coding & Programming 2022",
+        "description": "Placed 4th at the national Future Leadership Conference with an HTML5 website designed to locate tourism activites and emergency services.",
+        "id":"fbla-2022",
+        "images": [
+            "images/fbla-1.webp",
+            "images/fbla-2.webp"
+        ]
+    },
+    {
+        "name": "FBLA Coding & Programming 2021",
+        "description": "Placed 2nd at WA state Future Business Leadership conference. Developed an original computer program using Java that generated a quiz from questions stored in a SQL database and featured an ability to export scores as a PDF.",
+        "id":"fbla-2021",
+        "video":"https://www.youtube.com/embed/wjEfiYlYq9Y"
+    },
+    {
+        "name": "FBLA Coding & Programming 2020",
+        "description": "Placed 2nd at WA state Future Business Leadership conference. Developed an original computer program using Java that tracked student community service hours and featured an ability to print hours and awards.",
+        "id":"fbla-2020",
+        "video":"https://www.youtube.com/embed/ZEJ6JCLO1gg"
+    },
+    {
+        "name": "Karate Belt Display",
+        "description": "3D Printed belt display that I made for my cousin. Designed in Fusion 360 and holds up to 10 belts with velcro straps.",
+        "id":"belts",
+        "images": [
+            "images/belts1.webp"
+        ]
+    },
+    {
+        "name": "Lithophane Lamp",
+        "description": "Custom lithophane lamp box made for my girlfriend. Features 5 photos and removable heart lid for easy access of E26 cornbulb LED.",
+        "id":"lithophane-lamp",
+        "images": [
+            "images/lithophane-1.webp",
+            "images/lithophane-2.webp",
+            "images/lithophane-3.webp",
+            "images/lithophane-4.webp"
+        ]
+    },
+    {
+        "name": "Snake Game",
+        "description": "Computer programming class final project coded in Java using the Swing toolkit to replicate the popular Snake game.",
+        "id":"snake",
+        "images": [
+            "images/snake-1.webp",
+            "images/snake-2.webp"
+        ]
+    },
+    {
+        "name": "VR Basketball Game",
+        "description": "VR Basketball freethrow game created in Unity for a school project. Uses Unity XR toolkit and is compatible with all modern VR headsets.",
+        "id":"basletball",
+        "images": [
+            "images/bball1.webp",
+            "images/bball2.webp"
+        ]
+    }
+]

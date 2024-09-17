@@ -100,10 +100,12 @@ html, body {
     .text {
         width: 50% !important;
         height: 100% !important;
-        overflow: scroll !important;
-        vertical-align: auto !important;
+        overflow-y: scroll !important;
         overflow-x: hidden !important;
-        align-items: center !important;
+        display: flex !important;
+        justify-content: center !important; /* Horizontally centers items */
+        align-items: center !important;    /* Vertically centers items */
+        flex-direction: column;            /* Ensures items stack vertically */
     }
     .download {
         width: auto !important;
@@ -266,11 +268,15 @@ html, body {
 }
 
 .text {
+    display: flex;
+    justify-content: center;  /* Horizontally centers the content */
+    align-items: center;      /* Vertically centers the content */
+    flex-direction: column;   /* Ensures items stack vertically */
     width: 50%;
     height: 100%;
-    overflow: scroll;
-    overflow-y: auto;
+    overflow-y: auto;         /* Allows vertical scroll if needed */
     overflow-x: hidden;
+    text-align: center;       /* Center text for readability */
 }
 
 .download {
@@ -377,6 +383,7 @@ p {
     width: 50% ;
     height: 100%;
     padding: none;
+    margin: 15px;
 }
 
 #portrait {

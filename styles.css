@@ -94,8 +94,10 @@ html, body {
         padding: 0 !important;
     }
     .about {
-        width: 100% !important;
+        width: 85% !important;
         font-size: 0.9em !important;
+        text-align: center !important;
+        margin: 0 auto !important;
     }
     .text {
         width: 50% !important;
@@ -107,7 +109,7 @@ html, body {
         align-items: center !important;    /* Vertically centers items */
         flex-direction: column;            /* Ensures items stack vertically */
     }
-    .download {
+    .download, .hyperlink {
         width: auto !important;
     }
     #form {
@@ -120,19 +122,19 @@ html, body {
         margin-bottom: 75px;
         border-radius: 20px !important;
     }
-    #resume:active, .download:active {
+    #resume:active, .download:active, .hyperlink:active {
       box-shadow: 0 6px #666 !important;
       transform: translateY(12px) !important;
     }
     .project {
-        height: 55% !important;
+        height: 65% !important;
         width: 100% !important;
     }
     .project-info {
         width: 100% !important;
         height: 50% !important;
         padding: none !important;
-        vertical-align: auto !important;
+        display: inline !important;
     }
     .iframe {
         padding: 0 !important;
@@ -293,6 +295,20 @@ html, body {
     box-shadow: 0 1px 0 #6bb8ff, 0 5px 0 #005aad, 0 6px 6px rgba(0,0,0,0.6);
 }
 
+.hyperlink {
+    background-color: dodgerblue;
+    color: white;
+    height: auto;
+    width: auto;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 1px 0 #6bb8ff, 0 5px 0 #005aad, 0 6px 6px rgba(0,0,0,0.6);
+}
+
 #form {
     width: 50%;
     border: 4px solid black;
@@ -311,11 +327,11 @@ html, body {
     box-shadow: 0 1px 0 #6bb8ff, 0 5px 0 #005aad, 0 6px 6px rgba(0,0,0,0.6);
 }
 
-#resume:hover, .download:hover {
+#resume:hover, .download:hover, .hyperlink:hover {
     background-color: #4ec2fc;
 }
 
-#resume:active, .download:active {
+#resume:active, .download:active, .hyperlink:active {
   background-color: #4ec2fc;
   box-shadow: 0 3px #666;
   transform: translateY(6px);
@@ -364,7 +380,7 @@ p {
 
 .about {
     position: relative;
-    width: 100%;
+    width: 80%;
     text-align: center;
     font-size: 1.5em;
     font-family: 'Open Sans';
@@ -383,7 +399,10 @@ p {
     width: 50% ;
     height: 100%;
     padding: none;
-    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
 }
 
 #portrait {

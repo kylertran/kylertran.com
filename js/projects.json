@@ -1,70 +1,111 @@
 [
     {
-        "name": "Best Buy Stock Alerts Bot",
-        "description": "Bot coded in Java to automatically alert you via SMS and email upon restock of any Best Buy product of your choosing.",
-        "id":"bestbuy",
+        "id": "sea-stats",
+        "name": "DubsTech Datathon 2025",
+        "description": "This project analyzes Seattle customer service requests using interactive visualizations (3D line plot, animated bar chart, and heatmap) to reveal trends in request distribution across the city",
+        "images": ["images/Data-Analysis-Cert.jpg"],
+        "link": {
+            "text": "View Demo",
+            "url": "https://seastats.report"
+        }
+    },
+    {
+        "id": "3d-simulator",
+        "name": "3D Printer G-code Simulator",
+        "description": "Real-time visualization tool for Marlin-based printers using C# and Unity 3D. Implemented hot-end movement simulation using vector paths and linear interpolation.",
+        "images": ["images/3d-simulator.webp"],
+        "link": {
+            "text": "Play Demo",
+            "url": "https://play.unity.com/en/games/414b41e5-e146-4c57-9d35-bc6ae18dfa43/webgl-builds"
+        }
+    },
+    {
+        "id": "deployment-assistant",
+        "name": "Deployment Asistant - CSSE Capstone",
+        "description": "A PowerShell application to streamline the deployment of Windows computers. Automates tasks such as connecting to the active directory, installing software, and updating the OS.",
+        "images": ["images/Deployment-Assistant.webp"],
+        "link": {
+            "text": "Read Abstract",
+            "url": "https://depts.washington.edu/stemadv/Autumn-2024/csse-abstract-page.html?csse-5-115"
+        }
+    },
+    {
+        "id": "cbir-system",
+        "name": "Content-Based Image Retreival System",
+        "description": "Python application that uses intensity & color-code methods to analyze image features. Utilized Gaussian normalization and Manhattan distance for precise image comparison.",
+        "images": ["images/cbir.webp"]
+    },
+    {
+        "id": "bestbuy",
+        "name": "Best Buy Stock Alerts",
+        "description": "A Java application that automatically alerts you via SMS and email upon restock of any Best Buy product.",
         "images": [
             "images/bestbuy-1.webp",
             "images/bestbuy-2.webp",
             "images/bestbuy-3.webp"
-        ]
+        ],
+        "link": {
+            "text": "View on GitHub",
+            "url": "https://github.com/kylertran/Best-Buy-Restock-Utility"
+        }
     },
     {
+        "id": "fbla-2022",
         "name": "FBLA Coding & Programming 2022",
-        "description": "Placed 4th at the national Future Leadership Conference with an HTML5 website designed to locate tourism activites and emergency services.",
-        "id":"fbla-2022",
+        "description": "Placed 4th at the national Future Leadership Conference with a website designed to locate tourism activites and emergency services. Utilized Google Places API's for querying and map",
         "images": [
             "images/fbla-1.webp",
             "images/fbla-2.webp"
-        ]
+        ],
+        "link": {
+            "text": "View on GitHub",
+            "url": "https://github.com/kylertran/FBLATourism"
+        }
     },
     {
+        "id": "fbla-2021",
         "name": "FBLA Coding & Programming 2021",
-        "description": "Placed 2nd at WA state Future Business Leadership conference. Developed an original computer program using Java that generated a quiz from questions stored in a SQL database and featured an ability to export scores as a PDF.",
-        "id":"fbla-2021",
-        "video":"https://www.youtube.com/embed/wjEfiYlYq9Y"
+        "description": "Placed 2nd at WA state Future Business Leadership conference. Developed a Java application that randomly generated a quiz from questions stored in a SQL database. Enables user to export their quiz results as a PDF.",
+        "video": "https://www.youtube.com/embed/wjEfiYlYq9Y",
+        "link": {
+            "text": "View on GitHub",
+            "url": "https://github.com/kylertran/FBLAQuiz"
+        }
     },
     {
+        "id": "fbla-2020",
         "name": "FBLA Coding & Programming 2020",
-        "description": "Placed 2nd at WA state Future Business Leadership conference. Developed an original computer program using Java that tracked student community service hours and featured an ability to print hours and awards.",
-        "id":"fbla-2020",
-        "video":"https://www.youtube.com/embed/ZEJ6JCLO1gg"
+        "description": "Placed 2nd at WA state Future Business Leadership conference. Developed a Java application that tracked student community service hours and features the ability to print hours and awards.",
+        "video": "https://www.youtube.com/embed/ZEJ6JCLO1gg",
+        "link": {
+            "text": "View on GitHub",
+            "url": "https://github.com/kylertran/FBLAServiceTracker"
+        }
     },
     {
-        "name": "Karate Belt Display",
-        "description": "3D Printed belt display that I made for my cousin. Designed in Fusion 360 and holds up to 10 belts with velcro straps.",
-        "id":"belts",
-        "images": [
-            "images/belts1.webp"
-        ]
-    },
-    {
-        "name": "Lithophane Lamp",
-        "description": "Custom lithophane lamp box made for my girlfriend. Features 5 photos and removable heart lid for easy access of E26 cornbulb LED.",
-        "id":"lithophane-lamp",
-        "images": [
-            "images/lithophane-1.webp",
-            "images/lithophane-2.webp",
-            "images/lithophane-3.webp",
-            "images/lithophane-4.webp"
-        ]
-    },
-    {
-        "name": "Snake Game",
-        "description": "Computer programming class final project coded in Java using the Swing toolkit to replicate the popular Snake game.",
-        "id":"snake",
-        "images": [
-            "images/snake-1.webp",
-            "images/snake-2.webp"
-        ]
-    },
-    {
-        "name": "VR Basketball Game",
-        "description": "VR Basketball freethrow game created in Unity for a school project. Uses Unity XR toolkit and is compatible with all modern VR headsets.",
-        "id":"basletball",
+        "id": "basketball",
+        "name": "Shoot Hoops VR",
+        "description": "A freethrow Basketball game created in Unity 3D. Uses the Unity XR toolkit and is compatible with all modern VR headsets.",
         "images": [
             "images/bball1.webp",
             "images/bball2.webp"
-        ]
+        ],
+        "link": {
+            "text": "View on GitHub",
+            "url": "https://github.com/kylertran/ShootingHoopsVR"
+        }
+    },
+    {
+        "id": "snake",
+        "name": "Snake Game",
+        "description": "High school programming class final project coded in Java and uses the Swing GUI toolkit.",
+        "images": [
+            "images/snake-1.webp",
+            "images/snake-2.webp"
+        ],
+        "link": {
+            "text": "View on GitHub",
+            "url": "https://github.com/kylertran/Snake-Remastered"
+        }
     }
 ]

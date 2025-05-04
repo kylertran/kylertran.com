@@ -16,6 +16,10 @@ html, body {
         height: auto !important;
         padding: 0 !important;
     }
+    .header a {
+        text-align: center !important;
+        border-radius: 0 !important;
+    }
     #bio {
         align-items: center !important;
         width: 100% !important;
@@ -90,12 +94,12 @@ html, body {
     }
     .title {
         width: 100% !important;
-        font-size: 1.3em !important;
+        font-size: 1.4em !important;
         padding: 0 !important;
     }
     .about {
         width: 85% !important;
-        font-size: 0.9em !important;
+        font-size: 1.05em !important;
         text-align: center !important;
         margin: 0 auto !important;
     }
@@ -109,7 +113,7 @@ html, body {
         align-items: center !important;    /* Vertically centers items */
         flex-direction: column;            /* Ensures items stack vertically */
     }
-    .download, .hyperlink {
+    .download {
         width: auto !important;
     }
     #form {
@@ -129,6 +133,7 @@ html, body {
     .project {
         height: 65% !important;
         width: 100% !important;
+       
     }
     .project-info {
         width: 100% !important;
@@ -136,27 +141,29 @@ html, body {
         padding: none !important;
         display: inline !important;
     }
-    .iframe {
+    iframe {
         padding: 0 !important;
+        height: 100% !important;
+        width: 80% !important;
     }
     .video {
         height: 40% !important;
         width: 100% !important;
         vertical-align: middle !important;
         padding-top: 15px;
+        padding-bottom: 15px;
         align-items: flex-end;
     }
     .slideshow {
         height: 50% !important;
         width: 100% !important;
         float: right !important;
-        margin-bottom: 20px !important;
+        margin-bottom: -30px !important;
     }
-
     .slideshow img{
-        height: 50% !important;
+        height: 40% !important;
         padding-top: 15px !important;
-        max-width: 100% !important;
+        max-width: 85% !important;
     }
 
     #scroll {
@@ -341,7 +348,7 @@ html, body {
     position: relative;
     width: 100%;
     text-align: center;
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: bold;
     font-family: 'Open Sans';
     padding: 5px;
@@ -382,7 +389,7 @@ p {
     position: relative;
     width: 80%;
     text-align: center;
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-family: 'Open Sans';
 }
 
@@ -442,6 +449,11 @@ img {
 .model {
     border-top: 12px solid white;
     height: 40%;
+}
+
+button:not(#resume) {
+    margin-top: 10px;
+    width: 175px;
 }
 
 .button_cont {

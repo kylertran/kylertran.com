@@ -2,10 +2,10 @@
     {
         "id": "sea-stats",
         "name": "DubsTech Datathon 2025",
-        "description": "This project analyzes Seattle customer service requests using interactive visualizations (3D line plot, animated bar chart, and heatmap) to reveal trends in request distribution across the city",
+        "description": "Created a website that analyzes customer service requests using interactive data visualizations (3D line plot, animated bar chart, and heatmap) to reveal trends in request distribution across the city of Seattle",
         "images": ["images/Data-Analysis-Cert.jpg"],
         "link": {
-            "text": "View Demo",
+            "text": "View Website",
             "url": "https://seastats.report"
         }
     },
